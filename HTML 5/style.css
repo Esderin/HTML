@@ -1,0 +1,42 @@
+.body {
+    background: rgb(254, 142, 6);
+    font-family: sans-serif;
+    max-width: 900px;
+    margin: auto;
+}
+
+.navbar {
+    background-color: rgb(255, 246, 170);
+}
+#title, .subtitle, .post_title 
+{
+    color: black;
+}
+
+.post_title 
+{
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post {
+    background: rgb(255, 246, 170);
+    padding: 15px;
+    border: 10px solid black;
+    border-radius: 50px;
+    margin-bottom: 15px;
+}
+
+.pharagraph {
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    margin: 0;
+    margin-bottom: 15px;
+    text-align: justify;
+}
+
+.post_image{
+    margin-bottom: 15px;
+}
